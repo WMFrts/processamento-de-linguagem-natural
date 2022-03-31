@@ -62,7 +62,7 @@
 
 <h3>REFERÊNCIAS</h3>
 
-<p align = 'JUSTIFY'>CHOWDHURY, Gobinda C, Natural Language Processing, Annual Review of Information Science and Technology, Vol. 37, Pág. 51-89, 2003..</p>
+<p align = 'JUSTIFY'>CHOWDHURY, Gobinda C, Natural Language Processing, Annual Review of Information Science and Technology, Vol. 37, Pág. 51-89, 2003.</p>
 
 
 
