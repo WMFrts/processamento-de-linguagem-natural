@@ -9,7 +9,7 @@
 <h3> SOBRE </h3>
 
 
-<p align = 'JUSTIFY'> Segundo Chowdhury (2003), processamento de linguagem natural é uma área de pesquisa e de aplicação que explora como os computadores podem ser usados para processar e manipular texto ou discurso em linguagem natural para fazer coisas úteis. Tem caráter híbrido, pois seu estudo tem fontes em várias disciplinas, como a computação e a linguística. Entre as várias aplicações relacionadas estão os chatbots, speech transcription e text summarization.
+<p align = 'JUSTIFY'> Segundo Chowdhury (2003), processamento de linguagem natural é uma área de pesquisa e de aplicação que explora como os computadores podem ser usados para processar e manipular texto ou discurso em linguagem natural para fazer coisas úteis. Tem caráter híbrido, pois seu estudo tem fontes em várias disciplinas, como a computação e a linguística. Entre as várias aplicações relacionadas estão os chatbots, transcrição de fala e sumarização de textos.
  </p>
 
 
@@ -47,6 +47,7 @@
 
 
 
+
 <h3>ÍNDICE</h3>
 
 <dl>
@@ -58,6 +59,7 @@
 <dt>6 EXTRAÇÃO DE ENTIDADES NOMEADAS</dt>
 <dt>7 NUVEM DE PALAVRAS</dt>
 </dl>
+
 
 
 <h3>REFERÊNCIAS</h3>
