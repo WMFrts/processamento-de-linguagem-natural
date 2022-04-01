@@ -15,7 +15,7 @@
 
 <p align = 'JUSTIFY'>Nesse projeto de estudo, são abordadas a teoria e aplicação de busca em textos, extração de entidades nomeadas, nuvem de palavras e treino de classificador de sentimentos. </p>
 
-<p align = 'JUSTIFY'>Abaixo, segue nuvem de palavras que consta nessa aplicação:</p>
+<p align = 'JUSTIFY'>Abaixo, segue nuvem de palavras que consta nessa aplicação, referente ao texto https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial:</p>
 
 
 
